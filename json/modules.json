@@ -1,0 +1,2186 @@
+[
+  {
+    "label":"B.WIWI-BWL.0001 Unternehmenssteuern I",
+    "value":"112"
+  },
+  {
+    "label":"B.WIWI-BWL.0002 Interne Unternehmensrechnung",
+    "value":"113"
+  },
+  {
+    "label":"B.WIWI-BWL.0003 Unternehmensführung und Organisation",
+    "value":"114"
+  },
+  {
+    "label":"B.WIWI-BWL.0004 Produktion und Logistik",
+    "value":"115"
+  },
+  {
+    "label":"B.WIWI-BWL.0005 Marketing",
+    "value":"116"
+  },
+  {
+    "label":"B.WIWI-BWL.0006 Finanzmärkte und Bewertung",
+    "value":"121"
+  },
+  {
+    "label":"B.WIWI-BWL.0007 Finanzierungsformen und Finanzierungspolitik",
+    "value":"122"
+  },
+  {
+    "label":"B.WIWI-BWL.0008 Bankmanagement I",
+    "value":"123"
+  },
+  {
+    "label":"B.WIWI-BWL.0009 Bankmanagement II",
+    "value":"124"
+  },
+  {
+    "label":"B.WIWI-BWL.0010 Bankenbereich und Bankgeschäfte",
+    "value":"125"
+  },
+  {
+    "label":"B.WIWI-BWL.0012 Behavioral Management Accounting",
+    "value":"304"
+  },
+  {
+    "label":"B.WIWI-BWL.0013 Problemstellungen des Bankmanagements im technisch-organisatorischen Bereich",
+    "value":"127"
+  },
+  {
+    "label":"B.WIWI-BWL.0014 Rechnungslegung der Unternehmung",
+    "value":"366"
+  },
+  {
+    "label":"B.WIWI-BWL.0015 Seminar zu Finanzierungsformen und Finanzierungspolitik",
+    "value":"324"
+  },
+  {
+    "label":"B.WIWI-BWL.0016 Seminar zur Rechnungslegung und Wirtschaftsprüfung",
+    "value":"64"
+  },
+  {
+    "label":"B.WIWI-BWL.0017 Steuerliche Gewinnermittlung",
+    "value":"128"
+  },
+  {
+    "label":"B.WIWI-BWL.0018 Steuerbelastung nationaler Unternehmen",
+    "value":"129"
+  },
+  {
+    "label":"B.WIWI-BWL.0019 Entscheidungstheorie",
+    "value":"130"
+  },
+  {
+    "label":"B.WIWI-BWL.0020 Entscheidung und interne Unternehmensrechnung",
+    "value":"362"
+  },
+  {
+    "label":"B.WIWI-BWL.0021 Controlling mit SAP",
+    "value":"88"
+  },
+  {
+    "label":"B.WIWI-BWL.0022 Wirtschaftsprüfung und Corporate Governance",
+    "value":"935"
+  },
+  {
+    "label":"B.WIWI-BWL.0023 Grundlagen der Versicherungstechnik",
+    "value":"131"
+  },
+  {
+    "label":"B.WIWI-BWL.0024 Unternehmenssteuern II",
+    "value":"1680"
+  },
+  {
+    "label":"B.WIWI-BWL.0026 Ringveranstaltung - Aktuelle Fragen der Unternehmensbesteuerung",
+    "value":"272"
+  },
+  {
+    "label":"B.WIWI-BWL.0027 Seminar Finanzcontrolling",
+    "value":"273"
+  },
+  {
+    "label":"B.WIWI-BWL.0028 Seminar in Finanzwirtschaft",
+    "value":"281"
+  },
+  {
+    "label":"B.WIWI-BWL.0029 Audit Go! - Projektseminar zur IT gestützten Abschlussprüfung",
+    "value":"282"
+  },
+  {
+    "label":"B.WIWI-BWL.0031 Problemstellungen des Bankmanagements im finanziellen Bereich",
+    "value":"313"
+  },
+  {
+    "label":"B.WIWI-BWL.0032 Seminar 'Ausgewählte Fragestellungen des Handelsmanagements'",
+    "value":"291"
+  },
+  {
+    "label":"B.WIWI-BWL.0033 Planspiel Produktions- und Absatzsimulation",
+    "value":"342"
+  },
+  {
+    "label":"B.WIWI-BWL.0035 Einführung in das Controlling",
+    "value":"132"
+  },
+  {
+    "label":"B.WIWI-BWL.0036 Controllingseminar",
+    "value":"133"
+  },
+  {
+    "label":"B.WIWI-BWL.0037 Produktionsmanagement",
+    "value":"300"
+  },
+  {
+    "label":"B.WIWI-BWL.0038 Supply Chain Management",
+    "value":"134"
+  },
+  {
+    "label":"B.WIWI-BWL.0039 Seminar 'Betriebstypen- und Standortpolitik im Handel'",
+    "value":"1759"
+  },
+  {
+    "label":"B.WIWI-BWL.0040 Handelsmanagement",
+    "value":"136"
+  },
+  {
+    "label":"B.WIWI-BWL.0041 Planung und Budgetierung",
+    "value":"297"
+  },
+  {
+    "label":"B.WIWI-BWL.0045 Seminar Ausgewählte Fragestellungen des Marketing (Werbung und Werbewirkungen)",
+    "value":"290"
+  },
+  {
+    "label":"B.WIWI-BWL.0051 Seminar Ausgewählte Probleme der Produktion und Logistik",
+    "value":"320"
+  },
+  {
+    "label":"B.WIWI-BWL.0052 Logistikmanagement",
+    "value":"321"
+  },
+  {
+    "label":"B.WIWI-BWL.0053 Seminar zu ausgewählten Themen der Betrieblichen Finanzwirtschaft",
+    "value":"323"
+  },
+  {
+    "label":"B.WIWI-BWL.0054 Organisationsgestaltung und Wandel",
+    "value":"328"
+  },
+  {
+    "label":"B.WIWI-BWL.0055 Seminar Organisation",
+    "value":"329"
+  },
+  {
+    "label":"B.WIWI-BWL.0059 Grundlagen der Marktforschung",
+    "value":"1331"
+  },
+  {
+    "label":"B.WIWI-BWL.0060 Konsumentenverhalten",
+    "value":"940"
+  },
+  {
+    "label":"B.WIWI-BWL.0061 POS-Marketing und POS-Forschung",
+    "value":"1636"
+  },
+  {
+    "label":"B.WIWI-BWL.0062 Ausgewählte Fragestellungen der Konsumentenforschung",
+    "value":"1648"
+  },
+  {
+    "label":"B.WIWI-BWL.0063 Entscheidungsorientiertes Controlling",
+    "value":"6707"
+  },
+  {
+    "label":"B.WIWI-BWL.0064 Ausgewählte Fragestellungen der Betriebswirtschaftslehre im Bereich Unternehmensführung",
+    "value":"11814"
+  },
+  {
+    "label":"B.WIWI-BWL.0065 Ausgewählte Fragestellungen der Betriebswirtschaftslehre im Bereich Finanzen, Rechnungswesen und Steuern",
+    "value":"11816"
+  },
+  {
+    "label":"B.WIWI-BWL.0066 Ausgewählte Fragestellungen der Betriebswirtschaftslehre im Bereich Marketing und Distributionsmanagement",
+    "value":"11817"
+  },
+  {
+    "label":"B.WIWI-BWL.0067 Ausgewählte Fragestellungen der Betriebswirtschaftslehre",
+    "value":"11818"
+  },
+  {
+    "label":"B.WIWI-BWL.0068 Informationssysteme in der Finanzwirtschaft",
+    "value":"12091"
+  },
+  {
+    "label":"B.WIWI-BWL.0069 Marketing Performance Management",
+    "value":"12099"
+  },
+  {
+    "label":"B.WIWI-BWL.0070 Seminar Electronic Finance",
+    "value":"13227"
+  },
+  {
+    "label":"B.WIWI-BWL.0071 Aktuelle Herausforderungen im Innovationsmanagement",
+    "value":"12610"
+  },
+  {
+    "label":"B.WIWI-BWL.0072 Unternehmensführung und Corporate Governance",
+    "value":"17797"
+  },
+  {
+    "label":"B.WIWI-BWL.0073 Ausgewählte Probleme in Management und Controlling",
+    "value":"17800"
+  },
+  {
+    "label":"B.WIWI-BWL.0074 Seminar 'Standort- und Objektentwicklung im Einzelhandel'",
+    "value":"17804"
+  },
+  {
+    "label":"B.WIWI-BWL.0075 Seminar zur Versicherungstechnik",
+    "value":"17813"
+  },
+  {
+    "label":"B.WIWI-BWL.0076 Ausgewählte Fragestellungen des quantitativen Marketing",
+    "value":"25775"
+  },
+  {
+    "label":"B.WIWI-BWL.0077 Aktuelle Themen im Personalmanagement",
+    "value":"35952"
+  },
+  {
+    "label":"B.WIWI-BWL.0078 Global Virtual Project Management",
+    "value":"36011"
+  },
+  {
+    "label":"B.WIWI-BWL.0079 Personalmanagement",
+    "value":"37487"
+  },
+  {
+    "label":"B.WIWI-BWL.0080 Aktuelle Fragestellungen zur Berichterstattung kapitalmarktorientierter Konzerne",
+    "value":"39738"
+  },
+  {
+    "label":"B.WIWI-BWL.0081 Selected Issues in Corporate Governance",
+    "value":"41994"
+  },
+  {
+    "label":"B.WIWI-BWL.0082 Seminar Corporate Valuation",
+    "value":"42737"
+  },
+  {
+    "label":"B.WIWI-BWL.0083 Einführung in DATEV",
+    "value":"43392"
+  },
+  {
+    "label":"B.WIWI-BWL.0084 Company Taxation in the European Union",
+    "value":"45091"
+  },
+  {
+    "label":"B.WIWI-BWL.0085 Seminar Empirische Methoden im Personalmanagement",
+    "value":"45097"
+  },
+  {
+    "label":"B.WIWI-BWL.0086 Projekt Interdisziplinäres Lernen & Zusammenarbeit (PILZ)",
+    "value":"46484"
+  },
+  {
+    "label":"B.WIWI-BWL.0087 International Marketing",
+    "value":"50357"
+  },
+  {
+    "label":"B.WIWI-BWL.0088 International Business",
+    "value":"54036"
+  },
+  {
+    "label":"B.WIWI-BWL.0089 Corporate Financial Management",
+    "value":"54071"
+  },
+  {
+    "label":"B.WIWI-BWL.0090 Projektseminar: Gründungsmanagement",
+    "value":"54707"
+  },
+  {
+    "label":"B.WIWI-BWL.0091 Asian Business and Economics",
+    "value":"58924"
+  },
+  {
+    "label":"B.WIWI-BWL.0092 Strategische Potenziale in industriellen und in öffentlichen Unternehmen",
+    "value":"62784"
+  },
+  {
+    "label":"B.WIWI-EXP.0001 Einführung in die Betriebswirtschaftslehre und Entrepreneurship",
+    "value":"348"
+  },
+  {
+    "label":"B.WIWI-EXP.0002 Einführung in die Volkswirtschaftslehre",
+    "value":"343"
+  },
+  {
+    "label":"B.WIWI-EXP.0003 Haushalte, Unternehmen und Märkte",
+    "value":"346"
+  },
+  {
+    "label":"B.WIWI-EXP.0004 Einkommen und Beschäftigung in der Volkswirtschaft",
+    "value":"349"
+  },
+  {
+    "label":"B.WIWI-EXP.0005 Einführung in die Wirtschaftswissenschaften für ausländische Studierende",
+    "value":"30377"
+  },
+  {
+    "label":"B.WIWI-EXP.0006 Grundlagen volkswirtschaftlicher Wirkungszusammenhänge am Beispiel der deutschen Volkswirtschaft",
+    "value":"56426"
+  },
+  {
+    "label":"B.WIWI-EXP.0007 Grundlagen internationaler Wirtschaftsbeziehungen innerhalb und außerhalb der EU",
+    "value":"56429"
+  },
+  {
+    "label":"B.WIWI-FSK.0001 Projektseminar: Gründungsmanagement",
+    "value":"1273"
+  },
+  {
+    "label":"B.WIWI-OPH.0001 Unternehmen und Märkte",
+    "value":"103"
+  },
+  {
+    "label":"B.WIWI-OPH.0002 Mathematik",
+    "value":"104"
+  },
+  {
+    "label":"B.WIWI-OPH.0003 Informations- und Kommunikationssysteme",
+    "value":"106"
+  },
+  {
+    "label":"B.WIWI-OPH.0004 Einführung in die Finanzwirtschaft",
+    "value":"107"
+  },
+  {
+    "label":"B.WIWI-OPH.0005 Jahresabschluss",
+    "value":"108"
+  },
+  {
+    "label":"B.WIWI-OPH.0006 Statistik",
+    "value":"109"
+  },
+  {
+    "label":"B.WIWI-OPH.0007 Mikroökonomik I",
+    "value":"110"
+  },
+  {
+    "label":"B.WIWI-OPH.0008 Makroökonomik I",
+    "value":"111"
+  },
+  {
+    "label":"B.WIWI-OPH.0009 Recht",
+    "value":"105"
+  },
+  {
+    "label":"B.WIWI-QMW.0001 Lineare Modelle",
+    "value":"165"
+  },
+  {
+    "label":"B.WIWI-QMW.0002 Einführung in R",
+    "value":"31460"
+  },
+  {
+    "label":"B.WIWI-QMW.0003 Angewandte Ökonometrie",
+    "value":"36267"
+  },
+  {
+    "label":"B.WIWI-VWL.XXXX Microeconomics II",
+    "value":"41988"
+  },
+  {
+    "label":"B.WIWI-VWL.0001 Mikroökonomik II",
+    "value":"146"
+  },
+  {
+    "label":"B.WIWI-VWL.0002 Makroökonomik II",
+    "value":"147"
+  },
+  {
+    "label":"B.WIWI-VWL.0003 Einführung in die Wirtschaftspolitik",
+    "value":"148"
+  },
+  {
+    "label":"B.WIWI-VWL.0004 Einführung in die Finanzwissenschaft",
+    "value":"149"
+  },
+  {
+    "label":"B.WIWI-VWL.0005 Grundlagen der internationalen Wirtschaftsbeziehungen",
+    "value":"150"
+  },
+  {
+    "label":"B.WIWI-VWL.0006 Wachstum und Entwicklung",
+    "value":"151"
+  },
+  {
+    "label":"B.WIWI-VWL.0007 Einführung in die Ökonometrie",
+    "value":"152"
+  },
+  {
+    "label":"B.WIWI-VWL.0008 Geldtheorie und Geldpolitik",
+    "value":"153"
+  },
+  {
+    "label":"B.WIWI-VWL.0009 Arbeitsmarktökonomik",
+    "value":"154"
+  },
+  {
+    "label":"B.WIWI-VWL.0010 Einführung in die Institutionenökonomik",
+    "value":"155"
+  },
+  {
+    "label":"B.WIWI-VWL.0011 Seminar zur Finanz- und Steuerpolitik in der EU",
+    "value":"156"
+  },
+  {
+    "label":"B.WIWI-VWL.0012 Grundlagen Europäischer Wirtschaftspolitik",
+    "value":"380"
+  },
+  {
+    "label":"B.WIWI-VWL.0013 Seminar zur Entwicklungsökonomik",
+    "value":"157"
+  },
+  {
+    "label":"B.WIWI-VWL.0014 Seminar zu aktuellen Problemen der Außenwirtschaft",
+    "value":"158"
+  },
+  {
+    "label":"B.WIWI-VWL.0015 Seminar zu Arbeitsmarkt- und Strukturproblemen der EU",
+    "value":"159"
+  },
+  {
+    "label":"B.WIWI-VWL.0016 Seminar zur Wettbewerbsfähigkeit und europäischer Binnenmarkt",
+    "value":"160"
+  },
+  {
+    "label":"B.WIWI-VWL.0017 Seminar zu Grundlagen der Institutionenökonomik",
+    "value":"161"
+  },
+  {
+    "label":"B.WIWI-VWL.0018 Seminar zur allgemeinen Wirtschaftspolitik",
+    "value":"162"
+  },
+  {
+    "label":"B.WIWI-VWL.0019 Seminar zu aktuellen Fragen der Finanz- und Steuerpolitik",
+    "value":"163"
+  },
+  {
+    "label":"B.WIWI-VWL.0020 Währungssysteme und Europäische Währungspolitik",
+    "value":"1660"
+  },
+  {
+    "label":"B.WIWI-VWL.0021 Seminar zu Grundlagen der Wirtschaftspolitik",
+    "value":"288"
+  },
+  {
+    "label":"B.WIWI-VWL.0022 Sozialpolitik",
+    "value":"277"
+  },
+  {
+    "label":"B.WIWI-VWL.0023 Seminar: Internationaler Handel und Auswirkungen für den Arbeitsmarkt",
+    "value":"318"
+  },
+  {
+    "label":"B.WIWI-VWL.0024 Seminar zu aktuellen Problemen der Entwicklungsländer",
+    "value":"336"
+  },
+  {
+    "label":"B.WIWI-VWL.0026 Internationale Unternehmenstätigkeit in der Globalisierung",
+    "value":"247"
+  },
+  {
+    "label":"B.WIWI-VWL.0028 Einführung in die Spieltheorie",
+    "value":"400"
+  },
+  {
+    "label":"B.WIWI-VWL.0029 Multinationale Unternehmen: theoretische und empirische Grundlagen",
+    "value":"402"
+  },
+  {
+    "label":"B.WIWI-VWL.0030 Neuere Erkenntnisse zur internationalen Unternehmenstätigkeit",
+    "value":"403"
+  },
+  {
+    "label":"B.WIWI-VWL.0031 Topics in Economic Globalization",
+    "value":"1262"
+  },
+  {
+    "label":"B.WIWI-VWL.0032 Freakonomics",
+    "value":"1912"
+  },
+  {
+    "label":"B.WIWI-VWL.0033 Europäische Sozialpolitik ",
+    "value":"6658"
+  },
+  {
+    "label":"B.WIWI-VWL.0034 Public Choice (Bachelor)",
+    "value":"6694"
+  },
+  {
+    "label":"B.WIWI-VWL.0035 Vertrauen - ein Basiskonzept für die Wirtschaftswissenschaften?",
+    "value":"4962"
+  },
+  {
+    "label":"B.WIWI-VWL.0036 Sozialpolitik - Alterssicherung ",
+    "value":"6842"
+  },
+  {
+    "label":"B.WIWI-VWL.0037 Sozialpolitik - Gesundheitssysteme ",
+    "value":"6846"
+  },
+  {
+    "label":"B.WIWI-VWL.0038 Ausgewählte Fragestellungen der Volkswirtschaftslehre",
+    "value":"7348"
+  },
+  {
+    "label":"B.WIWI-VWL.0039 Competition Policy in the European Union",
+    "value":"7452"
+  },
+  {
+    "label":"B.WIWI-VWL.0040 Indian Economic Development",
+    "value":"10016"
+  },
+  {
+    "label":"B.WIWI-VWL.0041 Introduction to Development Economics",
+    "value":"13293"
+  },
+  {
+    "label":"B.WIWI-VWL.0042 Microfinance in South Asia",
+    "value":"14788"
+  },
+  {
+    "label":"B.WIWI-VWL.0043 Political Economy",
+    "value":"16547"
+  },
+  {
+    "label":"B.WIWI-VWL.0044 Volkswirtschaftliches Hauptseminar I",
+    "value":"16923"
+  },
+  {
+    "label":"B.WIWI-VWL.0045 Volkswirtschaftliches Hauptseminar II",
+    "value":"16922"
+  },
+  {
+    "label":"B.WIWI-VWL.0046 Volkswirtschaftliches Seminar",
+    "value":"17812"
+  },
+  {
+    "label":"B.WIWI-VWL.0047 Staatsverschuldung",
+    "value":"18131"
+  },
+  {
+    "label":"B.WIWI-VWL.0048 Finanz- und Steuerpolitik der EU",
+    "value":"24693"
+  },
+  {
+    "label":"B.WIWI-VWL.0049 Angewandte Mikroökonomik",
+    "value":"36425"
+  },
+  {
+    "label":"B.WIWI-VWL.0050 Stadt- und Regionalökonomik",
+    "value":"37519"
+  },
+  {
+    "label":"B.WIWI-VWL.0053 Einführung in die Entwicklungsökonomie Indiens",
+    "value":"41790"
+  },
+  {
+    "label":"B.WIWI-VWL.0054 Vertiefungsmodul Entwicklungsökonomie Indiens",
+    "value":"41793"
+  },
+  {
+    "label":"B.WIWI-VWL.0055 Theorien, Methoden und Anwendungsbereiche Indischer Entwicklungsökonomie",
+    "value":"41800"
+  },
+  {
+    "label":"B.WIWI-VWL.0058 Industrial Organization Theory",
+    "value":"46493"
+  },
+  {
+    "label":"B.WIWI-VWL.0059 International Financial Markets",
+    "value":"51800"
+  },
+  {
+    "label":"B.WIWI-VWL.0060 Intertemporal Choice and Saving",
+    "value":"52657"
+  },
+  {
+    "label":"B.WIWI-VWL.0061 Dynamic Macroeconomics",
+    "value":"54075"
+  },
+  {
+    "label":"B.WIWI-VWL.0062 Einführung in die experimentelle Ökonomik",
+    "value":"58838"
+  },
+  {
+    "label":"B.WIWI-VWL.0063 Geschichte des ökonomischen Denkens",
+    "value":"59027"
+  },
+  {
+    "label":"B.WIWI-VWL.0064 Experimentelle Wirtschaftsforschung",
+    "value":"61990"
+  },
+  {
+    "label":"B.WIWI-VWL.0065 Umweltökonomik",
+    "value":"64298"
+  },
+  {
+    "label":"B.WIWI-VWL.0066 Grundlagen der Regionalökonomik und Mittelstandsforschung",
+    "value":"64311"
+  },
+  {
+    "label":"B.WIWI-WB.0001 Wissenschaftliches Programmieren",
+    "value":"53904"
+  },
+  {
+    "label":"B.WIWI-WB.0002 Projekte zur Nachhaltigen Unternehmensführung (Enactus)",
+    "value":"52693"
+  },
+  {
+    "label":"B.WIWI-WB.0003 Introduction to Stata",
+    "value":"54268"
+  },
+  {
+    "label":"B.WIWI-WB.0004 Einführung in das wissenschaftliche Arbeiten",
+    "value":"54736"
+  },
+  {
+    "label":"B.WIWI-WB.0005 Heterodoxie in der VWL",
+    "value":"55353"
+  },
+  {
+    "label":"B.WIWI-WB.0006 Kritische Ökonomik",
+    "value":"56277"
+  },
+  {
+    "label":"B.WIWI-WB.0007 Ausgewählte Themen wirtschaftswissenschaftlicher Kompetenzen",
+    "value":"61414"
+  },
+  {
+    "label":"B.WIWI-WB.1000 Externes Praktikum",
+    "value":"59045"
+  },
+  {
+    "label":"B.WIWI-WIN.0001 Management der Informationssysteme",
+    "value":"117"
+  },
+  {
+    "label":"B.WIWI-WIN.0002 Management der Informationswirtschaft",
+    "value":"118"
+  },
+  {
+    "label":"B.WIWI-WIN.0003 Programmiersprache Java",
+    "value":"119"
+  },
+  {
+    "label":"B.WIWI-WIN.0004 Informationsverarbeitung in Dienstleistungsbetrieben",
+    "value":"137"
+  },
+  {
+    "label":"B.WIWI-WIN.0005 Projektseminar zur Systementwicklung - Entwicklung von Web-Applikationen ",
+    "value":"120"
+  },
+  {
+    "label":"B.WIWI-WIN.0006 SAP-Projektseminar",
+    "value":"143"
+  },
+  {
+    "label":"B.WIWI-WIN.0007 SAP-Blockschulung",
+    "value":"144"
+  },
+  {
+    "label":"B.WIWI-WIN.0008 Seminar zur Wirtschaftsinformatik, Informatik und BWL",
+    "value":"145"
+  },
+  {
+    "label":"B.WIWI-WIN.0009 Hausarbeitenseminar: Aktuelle Themen im Informationsmanagement",
+    "value":"301"
+  },
+  {
+    "label":"B.WIWI-WIN.0010 Informationsverarbeitung in Industriebetrieben",
+    "value":"138"
+  },
+  {
+    "label":"B.WIWI-WIN.0011 Programmiersprache C#",
+    "value":"382"
+  },
+  {
+    "label":"B.WIWI-WIN.0012 Betriebliche Anwendungen von Internettechnologien",
+    "value":"140"
+  },
+  {
+    "label":"B.WIWI-WIN.0013 Datenkommunikation und Kommunikationsnetze",
+    "value":"141"
+  },
+  {
+    "label":"B.WIWI-WIN.0014 Einführung in die Rechnerarchitektur",
+    "value":"142"
+  },
+  {
+    "label":"B.WIWI-WIN.0015 Geschäftsprozesse und Informationstechnologie",
+    "value":"311"
+  },
+  {
+    "label":"B.WIWI-WIN.0016 Mobile Business",
+    "value":"350"
+  },
+  {
+    "label":"B.WIWI-WIN.0017 Business Intelligence",
+    "value":"351"
+  },
+  {
+    "label":"B.WIWI-WIN.0018 Anwendungssysteme in Industrieunternehmen",
+    "value":"352"
+  },
+  {
+    "label":"B.WIWI-WIN.0019 Electronic Commerce",
+    "value":"353"
+  },
+  {
+    "label":"B.WIWI-WIN.0020 Einführung in die Künstliche Intelligenz",
+    "value":"354"
+  },
+  {
+    "label":"B.WIWI-WIN.0021 Modellierung betrieblicher Informationssysteme",
+    "value":"139"
+  },
+  {
+    "label":"B.WIWI-WIN.0022 Information Management",
+    "value":"355"
+  },
+  {
+    "label":"B.WIWI-WIN.0023 Projektseminar zur Systementwicklung - Entwicklung von mobilen Anwendungen ",
+    "value":"6698"
+  },
+  {
+    "label":"B.WIWI-WIN.0024 SAP TERP10",
+    "value":"6725"
+  },
+  {
+    "label":"B.WIWI-WIN.0025 Digitale Märkte",
+    "value":"29426"
+  },
+  {
+    "label":"B.WIWI-WIN.0026 Seminar zu Management-Informationssystemen und Methoden",
+    "value":"30241"
+  },
+  {
+    "label":"B.WIWI-WIN.0027 Seminar zu Themen der Wirtschaftsinformatik und BWL",
+    "value":"36079"
+  },
+  {
+    "label":"B.WIWI-WIN.0028 Projektmanagement",
+    "value":"58308"
+  },
+  {
+    "label":"B.WIWI-WIP.0001 Einführung in die Wirtschaftspädagogik",
+    "value":"170"
+  },
+  {
+    "label":"B.WIWI-WIP.0002 Lernen und Lehren I: Lerntheorien und Lernformen in der kaufmännischen Aus- und Weiterbildung",
+    "value":"171"
+  },
+  {
+    "label":"B.WIWI-WIP.0003 Institutionelle und bildungspolitische Bedingungen des Lernens und Lehrens I",
+    "value":"172"
+  },
+  {
+    "label":"B.WIWI-WIP.0004 Allgemeine Schulpraktische Übungen mit Schulpraktikum",
+    "value":"325"
+  },
+  {
+    "label":"B.WIWI-WIP.0005 Theorien des Lehrens und Lernens in der kaufmännischen Aus- und Weiterbildung",
+    "value":"17787"
+  },
+  {
+    "label":"B.WIWI-WIP.0006 Allgemeine schulpraktische Studien und Schulpraktikum",
+    "value":"17788"
+  },
+  {
+    "label":"B.WIWI-WIP.0007 Forschungsmethoden",
+    "value":"17789"
+  },
+  {
+    "label":"B.WIWI-WIP.0008 Entwicklungs- und Professionalisierungsprozesse in der beruflichen Bildung",
+    "value":"17790"
+  },
+  {
+    "label":"B.WIWI-WIP.0009 Projektseminar Bildungsmanagement",
+    "value":"17791"
+  },
+  {
+    "label":"B.WIWI-WSG.0001 Geschichte des ökonomischen Denkens",
+    "value":"51268"
+  },
+  {
+    "label":"M.MED.0001 Lineare Modelle und ihre mathematischen Grundlagen",
+    "value":"37861"
+  },
+  {
+    "label":"M.MED.0002 Longitudinale Daten",
+    "value":"37882"
+  },
+  {
+    "label":"M.MED.0003 Ereigniszeitanalyse",
+    "value":"37890"
+  },
+  {
+    "label":"M.MED.0004 Klinische Studien",
+    "value":"37886"
+  },
+  {
+    "label":"M.MED.0005 Statistische Methoden der Bioinformatik",
+    "value":"37894"
+  },
+  {
+    "label":"M.MED.0006 Genetische Epidemiologie",
+    "value":"37904"
+  },
+  {
+    "label":"M.MED.0007 Medizinische Dokumentation",
+    "value":"37909"
+  },
+  {
+    "label":"M.MED.0008 Grundlagen der Anwendung auf die Bereiche Lebenswissenschaften/Medizin/Versorgungsforschung",
+    "value":"37912"
+  },
+  {
+    "label":"M.MED.0009 Datenschutz und Datensicherheit",
+    "value":"37898"
+  },
+  {
+    "label":"M.MED.0010 Mathematische Grundlagen der Angewandten Statistik",
+    "value":"62766"
+  },
+  {
+    "label":"M.WIWI-BWL.0001 Finanzwirtschaft",
+    "value":"173"
+  },
+  {
+    "label":"M.WIWI-BWL.0002 Rechnungslegung nach IFRS",
+    "value":"174"
+  },
+  {
+    "label":"M.WIWI-BWL.0003 Unternehmensbesteuerung",
+    "value":"175"
+  },
+  {
+    "label":"M.WIWI-BWL.0004 Financial Risk Management",
+    "value":"176"
+  },
+  {
+    "label":"M.WIWI-BWL.0005 Rechnungslegung der Kreditinstitute",
+    "value":"177"
+  },
+  {
+    "label":"M.WIWI-BWL.0006 Projektseminar in Finanzwirtschaft",
+    "value":"178"
+  },
+  {
+    "label":"M.WIWI-BWL.0007 Probleme der Rechnungslegung von Banken nach IFRS",
+    "value":"179"
+  },
+  {
+    "label":"M.WIWI-BWL.0008 Derivate",
+    "value":"180"
+  },
+  {
+    "label":"M.WIWI-BWL.0009 Verhaltensorientiertes Controlling",
+    "value":"181"
+  },
+  {
+    "label":"M.WIWI-BWL.0010 Unternehmensbewertung",
+    "value":"363"
+  },
+  {
+    "label":"M.WIWI-BWL.0011 Projektseminar in Finanzcontrolling",
+    "value":"182"
+  },
+  {
+    "label":"M.WIWI-BWL.0012 Projekt Interdisziplinäres Lernen & Zusammenarbeit (PILZ)",
+    "value":"322"
+  },
+  {
+    "label":"M.WIWI-BWL.0013 Basismodul Finanzwirtschaft",
+    "value":"326"
+  },
+  {
+    "label":"M.WIWI-BWL.0014 Konzernbesteuerung",
+    "value":"183"
+  },
+  {
+    "label":"M.WIWI-BWL.0015 Besteuerung von Unternehmen unter dem Einfluss des Europarechts",
+    "value":"184"
+  },
+  {
+    "label":"M.WIWI-BWL.0016 Projektseminar M&A, Finanzierung und Besteuerung",
+    "value":"185"
+  },
+  {
+    "label":"M.WIWI-BWL.0018 Analysis of IFRS Financial Statements",
+    "value":"405"
+  },
+  {
+    "label":"M.WIWI-BWL.0020 Risk Management and Solvency",
+    "value":"187"
+  },
+  {
+    "label":"M.WIWI-BWL.0021 Company Taxation in the European Union",
+    "value":"1659"
+  },
+  {
+    "label":"M.WIWI-BWL.0022 General Management",
+    "value":"189"
+  },
+  {
+    "label":"M.WIWI-BWL.0023 Management Accounting",
+    "value":"190"
+  },
+  {
+    "label":"M.WIWI-BWL.0024 Unternehmensplanung",
+    "value":"194"
+  },
+  {
+    "label":"M.WIWI-BWL.0025 Seminar: Unternehmensentwicklung",
+    "value":"191"
+  },
+  {
+    "label":"M.WIWI-BWL.0026 Seminar und/oder Projekt - Controlling",
+    "value":"192"
+  },
+  {
+    "label":"M.WIWI-BWL.0027 Seminar und/oder Projekt - Strategic Business Valuation Seminar",
+    "value":"75"
+  },
+  {
+    "label":"M.WIWI-BWL.0028 Seminar und/oder Projekt - Aktuelle Ansätze in Produktion und Logistik",
+    "value":"193"
+  },
+  {
+    "label":"M.WIWI-BWL.0029 Ringveranstaltung - Aktuelle Fragen der Unternehmensbesteuerung",
+    "value":"340"
+  },
+  {
+    "label":"M.WIWI-BWL.0031 Sustainable Production",
+    "value":"278"
+  },
+  {
+    "label":"M.WIWI-BWL.0032 Projektseminar in Rechnungslegung und Wirtschaftsprüfung",
+    "value":"378"
+  },
+  {
+    "label":"M.WIWI-BWL.0033 Unternehmensplanspiel ComPAQ",
+    "value":"195"
+  },
+  {
+    "label":"M.WIWI-BWL.0034 Logistik- und Supply Chain Management",
+    "value":"196"
+  },
+  {
+    "label":"M.WIWI-BWL.0036 Produktionsplanung und -steuerung",
+    "value":"197"
+  },
+  {
+    "label":"M.WIWI-BWL.0038 Seminar: Übergreifende Fallstudien der Logistischen Systeme",
+    "value":"199"
+  },
+  {
+    "label":"M.WIWI-BWL.0039 Seminar 'Preismanagement im Handel'",
+    "value":"333"
+  },
+  {
+    "label":"M.WIWI-BWL.0040 Seminar 'Standort- und Objektentwicklung im Einzelhandel'",
+    "value":"334"
+  },
+  {
+    "label":"M.WIWI-BWL.0041 Rechnungslegung und Kapitalmarkt",
+    "value":"929"
+  },
+  {
+    "label":"M.WIWI-BWL.0042 Arbeitsemotionen",
+    "value":"200"
+  },
+  {
+    "label":"M.WIWI-BWL.0044 Controlling mit SAP",
+    "value":"93"
+  },
+  {
+    "label":"M.WIWI-BWL.0045 Controlling von M&A",
+    "value":"79"
+  },
+  {
+    "label":"M.WIWI-BWL.0047 Leistungsmessung und -steuerung",
+    "value":"299"
+  },
+  {
+    "label":"M.WIWI-BWL.0048 Quantitative Methoden in Produktion und Logistik",
+    "value":"305"
+  },
+  {
+    "label":"M.WIWI-BWL.0050 Anlagen- und Energiewirtschaft",
+    "value":"286"
+  },
+  {
+    "label":"M.WIWI-BWL.0051 Seminar: Strategische Unternehmensplanung",
+    "value":"287"
+  },
+  {
+    "label":"M.WIWI-BWL.0053 Management Consulting",
+    "value":"214"
+  },
+  {
+    "label":"M.WIWI-BWL.0055 Distribution",
+    "value":"204"
+  },
+  {
+    "label":"M.WIWI-BWL.0058 Synergiemodul 'Informationssysteme in der Supply Chain'",
+    "value":"207"
+  },
+  {
+    "label":"M.WIWI-BWL.0059 Projektstudium",
+    "value":"208"
+  },
+  {
+    "label":"M.WIWI-BWL.0063 Methoden zur Analyse von Marktdaten",
+    "value":"293"
+  },
+  {
+    "label":"M.WIWI-BWL.0064 Seminar 'Aktuelle Entwicklungen der Handelswissenschaft'",
+    "value":"294"
+  },
+  {
+    "label":"M.WIWI-BWL.0065 Seminar 'Handelsmarketing'",
+    "value":"295"
+  },
+  {
+    "label":"M.WIWI-BWL.0066 Seminar 'Marketing- und Wettbewerbsstrategien'",
+    "value":"296"
+  },
+  {
+    "label":"M.WIWI-BWL.0067 Bankenaufsicht",
+    "value":"126"
+  },
+  {
+    "label":"M.WIWI-BWL.0071 Leadership",
+    "value":"330"
+  },
+  {
+    "label":"M.WIWI-BWL.0072 Organisationsforschung I",
+    "value":"331"
+  },
+  {
+    "label":"M.WIWI-BWL.0073 Organisationsforschung II",
+    "value":"374"
+  },
+  {
+    "label":"M.WIWI-BWL.0074 Organisationstheorien",
+    "value":"332"
+  },
+  {
+    "label":"M.WIWI-BWL.0075 Pricing Strategy",
+    "value":"943"
+  },
+  {
+    "label":"M.WIWI-BWL.0076 Planspiel Marketing",
+    "value":"1332"
+  },
+  {
+    "label":"M.WIWI-BWL.0077 Synergiemodul 'Marketing und IT-Unterstützung'",
+    "value":"1652"
+  },
+  {
+    "label":"M.WIWI-BWL.0078 Seminar Aktuelle Forschungsansätze im Marketing",
+    "value":"1661"
+  },
+  {
+    "label":"M.WIWI-BWL.0079 Marktforschung I",
+    "value":"1665"
+  },
+  {
+    "label":"M.WIWI-BWL.0080 Marktforschung II",
+    "value":"1668"
+  },
+  {
+    "label":"M.WIWI-BWL.0081 Marketing Engineering",
+    "value":"1671"
+  },
+  {
+    "label":"M.WIWI-BWL.0082 Synergiemodul Ausgewählte Fragestellungen in Mehrkanalsystemen",
+    "value":"206"
+  },
+  {
+    "label":"M.WIWI-BWL.0083 Kundenverhalten - Konstrukte, Theorien und empirische Befunde",
+    "value":"1419"
+  },
+  {
+    "label":"M.WIWI-BWL.0084 Wertorientiertes Controlling ",
+    "value":"6668"
+  },
+  {
+    "label":"M.WIWI-BWL.0085 Finanzcontrolling",
+    "value":"6715"
+  },
+  {
+    "label":"M.WIWI-BWL.0086 Unternehmensentscheidungen und Steuern",
+    "value":"11374"
+  },
+  {
+    "label":"M.WIWI-BWL.0087 Elektronischer Wertpapierhandel",
+    "value":"12095"
+  },
+  {
+    "label":"M.WIWI-BWL.0088 Seminar IT-Trends",
+    "value":"12598"
+  },
+  {
+    "label":"M.WIWI-BWL.0089 Innovationsmanagement",
+    "value":"12607"
+  },
+  {
+    "label":"M.WIWI-BWL.0090 Synergiemodul",
+    "value":"13413"
+  },
+  {
+    "label":"M.WIWI-BWL.0091 Organizational Behavior",
+    "value":"14138"
+  },
+  {
+    "label":"M.WIWI-BWL.0092 Global Sourcing of Business and IT Services",
+    "value":"14512"
+  },
+  {
+    "label":"M.WIWI-BWL.0093 Aktuelle Themen des IT-Managements in der Produktion",
+    "value":"14516"
+  },
+  {
+    "label":"M.WIWI-BWL.0094 Strategisches Personalmanagement für die globalisierte Industrie",
+    "value":"16640"
+  },
+  {
+    "label":"M.WIWI-BWL.0095 Strategisches Marketing",
+    "value":"16915"
+  },
+  {
+    "label":"M.WIWI-BWL.0096 Seminar: Aktuelle Fragestellungen des Innovationsmanagements",
+    "value":"16920"
+  },
+  {
+    "label":"M.WIWI-BWL.0097 Strategische Unternehmensführung",
+    "value":"17798"
+  },
+  {
+    "label":"M.WIWI-BWL.0098 Management und Unternehmenssteuerung",
+    "value":"17799"
+  },
+  {
+    "label":"M.WIWI-BWL.0099 Strategische Unternehmenssteuerung",
+    "value":"17801"
+  },
+  {
+    "label":"M.WIWI-BWL.0100 Internationales Management",
+    "value":"17802"
+  },
+  {
+    "label":"M.WIWI-BWL.0101 Stand und Methoden der empirischen Steuerforschung",
+    "value":"17803"
+  },
+  {
+    "label":"M.WIWI-BWL.0102 Grundlagen der nationalen und internationalen Unternehmensbesteuerung",
+    "value":"17805"
+  },
+  {
+    "label":"M.WIWI-BWL.0103 Seminar \"Empirische Managementforschung\"",
+    "value":"18068"
+  },
+  {
+    "label":"M.WIWI-BWL.0104 Projektseminar in Electronic Finance",
+    "value":"24748"
+  },
+  {
+    "label":"M.WIWI-BWL.0105 Grundlagen der internationalen Unternehmensbesteuerung",
+    "value":"25518"
+  },
+  {
+    "label":"M.WIWI-BWL.0106 Topics in Quantitative Marketing and Economics",
+    "value":"25778"
+  },
+  {
+    "label":"M.WIWI-BWL.0108 Empirische Managementforschung",
+    "value":"26627"
+  },
+  {
+    "label":"M.WIWI-BWL.0109 International Human Resource Management",
+    "value":"36014"
+  },
+  {
+    "label":"M.WIWI-BWL.0110 Strategic Human Resource Development",
+    "value":"36018"
+  },
+  {
+    "label":"M.WIWI-BWL.0111 Selected Topics in Asian Business and Management",
+    "value":"36021"
+  },
+  {
+    "label":"M.WIWI-BWL.0112 Corporate Development",
+    "value":"36027"
+  },
+  {
+    "label":"M.WIWI-BWL.0113 Prozessmanagement",
+    "value":"36056"
+  },
+  {
+    "label":"M.WIWI-BWL.0114 Empirisches Seminar: Soziale Netzwerkanalyse",
+    "value":"36031"
+  },
+  {
+    "label":"M.WIWI-BWL.0115 Human Resource Management Seminar",
+    "value":"37499"
+  },
+  {
+    "label":"M.WIWI-BWL.0116 Asian Business and Management",
+    "value":"36083"
+  },
+  {
+    "label":"M.WIWI-BWL.0117 Personalmanagement Praxisprojekt",
+    "value":"36084"
+  },
+  {
+    "label":"M.WIWI-BWL.0118 Survey Research",
+    "value":"36085"
+  },
+  {
+    "label":"M.WIWI-BWL.0119 Entscheidungs- und Verhandlungstheorie",
+    "value":"36599"
+  },
+  {
+    "label":"M.WIWI-BWL.0120 Abgabenrecht",
+    "value":"38175"
+  },
+  {
+    "label":"M.WIWI-BWL.0121 Juristische Methodenlehre",
+    "value":"38178"
+  },
+  {
+    "label":"M.WIWI-BWL.0122 Cross-Cultural Management",
+    "value":"44411"
+  },
+  {
+    "label":"M.WIWI-BWL.0123 Tax Transfer Pricing",
+    "value":"45094"
+  },
+  {
+    "label":"M.WIWI-BWL.0124 Praxisseminar: Aktuelle Probleme der Unternehmensentwicklung",
+    "value":"48385"
+  },
+  {
+    "label":"M.WIWI-BWL.0125 International Organizational Behavior",
+    "value":"54031"
+  },
+  {
+    "label":"M.WIWI-BWL.0126 Consumer Science & Public Policy",
+    "value":"54230"
+  },
+  {
+    "label":"M.WIWI-BWL.0127 International Management Research Seminar",
+    "value":"56372"
+  },
+  {
+    "label":"M.WIWI-BWL.0128 Seminar Aktuelle Forschung in der Finanzwirtschaft",
+    "value":"56464"
+  },
+  {
+    "label":"M.WIWI-BWL.0129 International Management Research Seminar",
+    "value":"58927"
+  },
+  {
+    "label":"M.WIWI-BWL.0130 Doing Business in Asia",
+    "value":"58930"
+  },
+  {
+    "label":"M.WIWI-BWL.0131 Konzeption eines Lern- und Studienmoduls zum Nachhaltigkeitsmanagement",
+    "value":"59092"
+  },
+  {
+    "label":"M.WIWI-BWL.0132 Empirische Rechnungslegungsforschung",
+    "value":"60822"
+  },
+  {
+    "label":"M.WIWI-BWL.0133 Banking Supervision",
+    "value":"61260"
+  },
+  {
+    "label":"M.WIWI-BWL.0134 Panel Data Analysis in Marketing",
+    "value":"61561"
+  },
+  {
+    "label":"M.WIWI-BWL.0135 Digital Innovations and Design Thinking",
+    "value":"62733"
+  },
+  {
+    "label":"M.WIWI-BWL.0136 Digital Transformation",
+    "value":"62737"
+  },
+  {
+    "label":"M.WIWI-BWL.0137 Electronic Commerce Systems",
+    "value":"62740"
+  },
+  {
+    "label":"M.WIWI-BWL.0138 Research Methods",
+    "value":"62849"
+  },
+  {
+    "label":"M.WIWI-BWL.0139 Discrete Choice Modeling",
+    "value":"64655"
+  },
+  {
+    "label":"M.WIWI-QMW.0001 Generalized Linear Models",
+    "value":"258"
+  },
+  {
+    "label":"M.WIWI-QMW.0002 Advanced Statistical Inference (Likelihood & Bayes)",
+    "value":"259"
+  },
+  {
+    "label":"M.WIWI-QMW.0003 Fortgeschrittene Mathematik: Optimierung",
+    "value":"260"
+  },
+  {
+    "label":"M.WIWI-QMW.0004 Econometrics I",
+    "value":"217"
+  },
+  {
+    "label":"M.WIWI-QMW.0005 Econometrics II",
+    "value":"261"
+  },
+  {
+    "label":"M.WIWI-QMW.0006 Seminar in Applied Statistics and Econometrics",
+    "value":"309"
+  },
+  {
+    "label":"M.WIWI-QMW.0007 Selected topics in Statistics and Econometrics",
+    "value":"314"
+  },
+  {
+    "label":"M.WIWI-QMW.0008 Doctoral Seminar in Applied Statistics and Econometrics",
+    "value":"339"
+  },
+  {
+    "label":"M.WIWI-QMW.0009 Introduction to Time Series Analysis",
+    "value":"1888"
+  },
+  {
+    "label":"M.WIWI-QMW.0010 Multivariate Statistics",
+    "value":"2016"
+  },
+  {
+    "label":"M.WIWI-QMW.0011 Statistical Programming with R",
+    "value":"31463"
+  },
+  {
+    "label":"M.WIWI-QMW.0012 Multivariate Time Series Analysis",
+    "value":"36091"
+  },
+  {
+    "label":"M.WIWI-QMW.0013 Applied Econometrics",
+    "value":"36263"
+  },
+  {
+    "label":"M.WIWI-QMW.0014 Mathematical Foundations of Applied Statistics",
+    "value":"36675"
+  },
+  {
+    "label":"M.WIWI-QMW.0016 Spatial Statistics",
+    "value":"36681"
+  },
+  {
+    "label":"M.WIWI-QMW.0019 Statistical Methods for Impact Evaluation",
+    "value":"36690"
+  },
+  {
+    "label":"M.WIWI-QMW.0020 Practical Statistical Training",
+    "value":"36693"
+  },
+  {
+    "label":"M.WIWI-QMW.0021 Introduction to R",
+    "value":"37235"
+  },
+  {
+    "label":"M.WIWI-QMW.0022 Ausgewählte Fragestellungen der Quantitativen Methoden",
+    "value":"43396"
+  },
+  {
+    "label":"M.WIWI-QMW.0023 Development Econometrics",
+    "value":"52338"
+  },
+  {
+    "label":"M.WIWI-QMW.0024 Financial Liberalization, Financial Development and Economic Growth",
+    "value":"62890"
+  },
+  {
+    "label":"M.WIWI-VWL.0001 Fortgeschrittene Mikroökonomik ",
+    "value":"216"
+  },
+  {
+    "label":"M.WIWI-VWL.0002 Makroökonomik offener Volkswirtschaften",
+    "value":"218"
+  },
+  {
+    "label":"M.WIWI-VWL.0003 Reale Außenwirtschaft",
+    "value":"219"
+  },
+  {
+    "label":"M.WIWI-VWL.0004 Chancen und Risiken internationaler monetärer und realer Wirtschaftsverflechtungen",
+    "value":"220"
+  },
+  {
+    "label":"M.WIWI-VWL.0006 Institutionenökonomik I: Ökonomische Analyse des Rechts",
+    "value":"222"
+  },
+  {
+    "label":"M.WIWI-VWL.0007 Institutionenökonomik II: Experimentelle Wirtschaftsforschung",
+    "value":"223"
+  },
+  {
+    "label":"M.WIWI-VWL.0008 Development Economics I: Macro Issues in Economic Development",
+    "value":"224"
+  },
+  {
+    "label":"M.WIWI-VWL.0009 Development Economics II: Micro Issues in Development Economics",
+    "value":"225"
+  },
+  {
+    "label":"M.WIWI-VWL.0010 Development Economics III: Regional Perspectives in Development Economics",
+    "value":"226"
+  },
+  {
+    "label":"M.WIWI-VWL.0011 Development Aid",
+    "value":"364"
+  },
+  {
+    "label":"M.WIWI-VWL.0012 Seminar: The Political Economy of the IMF and the World Bank",
+    "value":"365"
+  },
+  {
+    "label":"M.WIWI-VWL.0013 Theorie und Empirie der Wohlfahrtsökonomik",
+    "value":"227"
+  },
+  {
+    "label":"M.WIWI-VWL.0014 Allgemeine Steuerlehre",
+    "value":"228"
+  },
+  {
+    "label":"M.WIWI-VWL.0015 Staatsverschuldung und Soziale Sicherung",
+    "value":"229"
+  },
+  {
+    "label":"M.WIWI-VWL.0016 Fiskalwettbewerb und Föderalismus",
+    "value":"230"
+  },
+  {
+    "label":"M.WIWI-VWL.0018 Economic Development of Africa",
+    "value":"232"
+  },
+  {
+    "label":"M.WIWI-VWL.0019 Advanced Development Economics",
+    "value":"233"
+  },
+  {
+    "label":"M.WIWI-VWL.0020 Regionalökonomik und Mittelstandsforschung",
+    "value":"234"
+  },
+  {
+    "label":"M.WIWI-VWL.0021 Gender and Development",
+    "value":"235"
+  },
+  {
+    "label":"M.WIWI-VWL.0022 Analysis of Micro Data",
+    "value":"236"
+  },
+  {
+    "label":"M.WIWI-VWL.0023 Seminar to the situation of Latin America in the 21st century: Trade related and macroeconomic issues",
+    "value":"237"
+  },
+  {
+    "label":"M.WIWI-VWL.0024 Seminar to the Situation in Latin America in the 21st Century: Crises and the Necessity of Reforms",
+    "value":"238"
+  },
+  {
+    "label":"M.WIWI-VWL.0025 Seminar Development Economics IV",
+    "value":"239"
+  },
+  {
+    "label":"M.WIWI-VWL.0026 Seminar zu aktuellen Fragen der Institutionenökonomik",
+    "value":"289"
+  },
+  {
+    "label":"M.WIWI-VWL.0027 Seminar zur Internationalen Wirtschaftspolitik",
+    "value":"241"
+  },
+  {
+    "label":"M.WIWI-VWL.0028 Seminar zur Europäischen Wirtschaftspolitik",
+    "value":"242"
+  },
+  {
+    "label":"M.WIWI-VWL.0029 Seminar zur realen Außenwirtschaft",
+    "value":"243"
+  },
+  {
+    "label":"M.WIWI-VWL.0031 Seminar zur Politischen Ökonomie internationaler Organisationen",
+    "value":"245"
+  },
+  {
+    "label":"M.WIWI-VWL.0032 Seminar zur Politischen Ökonomie",
+    "value":"246"
+  },
+  {
+    "label":"M.WIWI-VWL.0034 Conflict and Development",
+    "value":"357"
+  },
+  {
+    "label":"M.WIWI-VWL.0035 Economic Effects of Regional Integration",
+    "value":"24700"
+  },
+  {
+    "label":"M.WIWI-VWL.0036 Seminar zu aktuellen Fragen der Wirtschaftspolitik",
+    "value":"240"
+  },
+  {
+    "label":"M.WIWI-VWL.0037 Finanzwissenschaftliches Forschungsseminar",
+    "value":"371"
+  },
+  {
+    "label":"M.WIWI-VWL.0038 Angewandte Internationale Industrieökonomik: Ökonometrische Analyse von Industrie und Firmendaten",
+    "value":"306"
+  },
+  {
+    "label":"M.WIWI-VWL.0039 Spanish Economy",
+    "value":"267"
+  },
+  {
+    "label":"M.WIWI-VWL.0040 Empirical Trade Issues",
+    "value":"268"
+  },
+  {
+    "label":"M.WIWI-VWL.0041 Panel Data Econometrics",
+    "value":"269"
+  },
+  {
+    "label":"M.WIWI-VWL.0042 European Economy",
+    "value":"270"
+  },
+  {
+    "label":"M.WIWI-VWL.0043 Wettbewerbspolitik",
+    "value":"271"
+  },
+  {
+    "label":"M.WIWI-VWL.0044 Seminar: Internationales Outsourcing und Multinationale Unternehmen",
+    "value":"319"
+  },
+  {
+    "label":"M.WIWI-VWL.0045 Wirtschafts- und Unternehmensethik",
+    "value":"327"
+  },
+  {
+    "label":"M.WIWI-VWL.0046 Seminar Topics in European and Global Trade",
+    "value":"337"
+  },
+  {
+    "label":"M.WIWI-VWL.0047 Economics and Politics of International Financial Organizations",
+    "value":"338"
+  },
+  {
+    "label":"M.WIWI-VWL.0048 Seminar: Heterogeneous Firms and International Trade",
+    "value":"360"
+  },
+  {
+    "label":"M.WIWI-VWL.0049 Seminar zu aktuellen Problemen der Entwicklungsländer",
+    "value":"372"
+  },
+  {
+    "label":"M.WIWI-VWL.0050 Seminar in Development Aid",
+    "value":"375"
+  },
+  {
+    "label":"M.WIWI-VWL.0051 Replication in Economics",
+    "value":"376"
+  },
+  {
+    "label":"M.WIWI-VWL.0052 Seminar zur Steuerwirkungslehre",
+    "value":"379"
+  },
+  {
+    "label":"M.WIWI-VWL.0053 Europäische Integration und Governance",
+    "value":"381"
+  },
+  {
+    "label":"M.WIWI-VWL.0054 Behavioral Game Theory",
+    "value":"401"
+  },
+  {
+    "label":"M.WIWI-VWL.0055 Seminar Globalization and Development",
+    "value":"404"
+  },
+  {
+    "label":"M.WIWI-VWL.0056 Finanzmarktanalyse - Prognosetechniken und Prognoseerfolg",
+    "value":"495"
+  },
+  {
+    "label":"M.WIWI-VWL.0057 Angewandte Arbeitsmarktökonomik: Empirische Analyse von Individualdaten",
+    "value":"1333"
+  },
+  {
+    "label":"M.WIWI-VWL.0059 Methods of economic policy evaluation",
+    "value":"1427"
+  },
+  {
+    "label":"M.WIWI-VWL.0060 Public Choice",
+    "value":"1684"
+  },
+  {
+    "label":"M.WIWI-VWL.0061 Methods of Economic Policy Evaluation: Case Studies",
+    "value":"1884"
+  },
+  {
+    "label":"M.WIWI-VWL.0062 Fragile States: Determinanten, Auswirkungen und mögliche Wege aus der Krise",
+    "value":"1889"
+  },
+  {
+    "label":"M.WIWI-VWL.0063 Sustainable Development, Trade and the Environment",
+    "value":"2405"
+  },
+  {
+    "label":"M.WIWI-VWL.0064 Multinational Corporations",
+    "value":"3350"
+  },
+  {
+    "label":"M.WIWI-VWL.0065 Economics of Crime",
+    "value":"3354"
+  },
+  {
+    "label":"M.WIWI-VWL.0066 Relations between the EU and the emerging global players ",
+    "value":"6649"
+  },
+  {
+    "label":"M.WIWI-VWL.0067 Seminar zur Europäischen Finanzpolitik ",
+    "value":"6662"
+  },
+  {
+    "label":"M.WIWI-VWL.0068 Growth and Development Economics",
+    "value":"6674"
+  },
+  {
+    "label":"M.WIWI-VWL.0069 Institutional Economics - informal and formal",
+    "value":"6680"
+  },
+  {
+    "label":"M.WIWI-VWL.0070 The Political Economy of Development",
+    "value":"6686"
+  },
+  {
+    "label":"M.WIWI-VWL.0071 Seminar Experimental Economics ",
+    "value":"6638"
+  },
+  {
+    "label":"M.WIWI-VWL.0072 The Political Economy of Intergenerational Transfers ",
+    "value":"6634"
+  },
+  {
+    "label":"M.WIWI-VWL.0073 Voting and Electoral Competition ",
+    "value":"6630"
+  },
+  {
+    "label":"M.WIWI-VWL.0074 The Economics of Health and Development ",
+    "value":"6619"
+  },
+  {
+    "label":"M.WIWI-VWL.0075 Ausgewählte Fragestellungen der Volkswirtschaftslehre I",
+    "value":"7359"
+  },
+  {
+    "label":"M.WIWI-VWL.0076 Ausgewählte Fragestellungen der Volkswirtschaftslehre II",
+    "value":"7360"
+  },
+  {
+    "label":"M.WIWI-VWL.0077 Ausgewählte Fragestellungen der Volkswirtschaftslehre III",
+    "value":"7363"
+  },
+  {
+    "label":"M.WIWI-VWL.0078 Ausgewählte Fragestellungen der Volkswirtschaftslehre IV",
+    "value":"7368"
+  },
+  {
+    "label":"M.WIWI-VWL.0079 Ausgewählte Fragestellungen der Volkswirtschaftslehre V",
+    "value":"7370"
+  },
+  {
+    "label":"M.WIWI-VWL.0080 Ausgewählte Fragestellungen der Volkswirtschaftslehre VI",
+    "value":"7371"
+  },
+  {
+    "label":"M.WIWI-VWL.0081 Financing Indian Enterprises",
+    "value":"12587"
+  },
+  {
+    "label":"M.WIWI-VWL.0082 Industrial Policy in the European Union",
+    "value":"12591"
+  },
+  {
+    "label":"M.WIWI-VWL.0083 Economic Reform and Social Justice in India",
+    "value":"14791"
+  },
+  {
+    "label":"M.WIWI-VWL.0085 Advanced Microeconomics",
+    "value":"17624"
+  },
+  {
+    "label":"M.WIWI-VWL.0086 Macroeconomics of Open Economies",
+    "value":"17625"
+  },
+  {
+    "label":"M.WIWI-VWL.0087 Empirical International Economics",
+    "value":"17662"
+  },
+  {
+    "label":"M.WIWI-VWL.0088 Empirical Labour Economics",
+    "value":"17663"
+  },
+  {
+    "label":"M.WIWI-VWL.0089 Seminar: Multinationale Unternehmen und Offshoring",
+    "value":"17814"
+  },
+  {
+    "label":"M.WIWI-VWL.0090 Seminar on Political Economy",
+    "value":"18853"
+  },
+  {
+    "label":"M.WIWI-VWL.0091 Die politische Ökonomie des Föderalismus",
+    "value":"24289"
+  },
+  {
+    "label":"M.WIWI-VWL.0092 International Trade",
+    "value":"29462"
+  },
+  {
+    "label":"M.WIWI-VWL.0093 Seminar on Political Economy of Democracy",
+    "value":"29690"
+  },
+  {
+    "label":"M.WIWI-VWL.0094 Geographical Economics",
+    "value":"29979"
+  },
+  {
+    "label":"M.WIWI-VWL.0095 International Political Economy",
+    "value":"30104"
+  },
+  {
+    "label":"M.WIWI-VWL.0096 Essentials of Global Health",
+    "value":"31457"
+  },
+  {
+    "label":"M.WIWI-VWL.0098 Political Economy of Fiscal Policy",
+    "value":"36435"
+  },
+  {
+    "label":"M.WIWI-VWL.0099 Poverty & Inequality",
+    "value":"36491"
+  },
+  {
+    "label":"M.WIWI-VWL.0100 Economics of Health Care Policy",
+    "value":"36496"
+  },
+  {
+    "label":"M.WIWI-VWL.0101 Theorie und Politik der internationalen Besteuerung",
+    "value":"36602"
+  },
+  {
+    "label":"M.WIWI-VWL.0102 Theory of Incentives",
+    "value":"36605"
+  },
+  {
+    "label":"M.WIWI-VWL.0103 Seminar Theorie und Empirie der Besteuerung",
+    "value":"37211"
+  },
+  {
+    "label":"M.WIWI-VWL.0104 Economic Reform and Social Justice in India",
+    "value":"41803"
+  },
+  {
+    "label":"M.WIWI-VWL.0105 Controversies in Development Economics",
+    "value":"43402"
+  },
+  {
+    "label":"M.WIWI-VWL.0106 Problems and Debates of Indian Development",
+    "value":"41806"
+  },
+  {
+    "label":"M.WIWI-VWL.0107 Seminar on Empirical Political Economics",
+    "value":"43191"
+  },
+  {
+    "label":"M.WIWI-VWL.0108 Advanced Macroeconomics",
+    "value":"43453"
+  },
+  {
+    "label":"M.WIWI-VWL.0109 Recent Topics in Fiscal Policy",
+    "value":"46498"
+  },
+  {
+    "label":"M.WIWI-VWL.0110 Seminar in Regional and Urban Economics",
+    "value":"50620"
+  },
+  {
+    "label":"M.WIWI-VWL.0112 Financial Markets and the Macroeconomy",
+    "value":"51803"
+  },
+  {
+    "label":"M.WIWI-VWL.0113 Financial Econometrics",
+    "value":"51806"
+  },
+  {
+    "label":"M.WIWI-VWL.0114 Finance and Development",
+    "value":"51902"
+  },
+  {
+    "label":"M.WIWI-VWL.0115 Topics in Public Economics",
+    "value":"52343"
+  },
+  {
+    "label":"M.WIWI-VWL.0116 Special Interest Politics",
+    "value":"52660"
+  },
+  {
+    "label":"M.WIWI-VWL.0117 Growth, Resources, and the Environment",
+    "value":"53658"
+  },
+  {
+    "label":"M.WIWI-VWL.0118 Seminar on the Global Business Cycle",
+    "value":"53985"
+  },
+  {
+    "label":"M.WIWI-VWL.0119 Portfolios of the Poor",
+    "value":"54322"
+  },
+  {
+    "label":"M.WIWI-VWL.0120 Dynamic Macroeconomics",
+    "value":"55379"
+  },
+  {
+    "label":"M.WIWI-VWL.0121 Seminar in Indeterminacy and Sunspots in Macroeconomics",
+    "value":"55383"
+  },
+  {
+    "label":"M.WIWI-VWL.0122 Seminar on Behavioral Development Economics",
+    "value":"55386"
+  },
+  {
+    "label":"M.WIWI-VWL.0123 Recent Topics in Macroeconomics",
+    "value":"55613"
+  },
+  {
+    "label":"M.WIWI-VWL.0124 Seminar in Financial Econometrics",
+    "value":"57135"
+  },
+  {
+    "label":"M.WIWI-VWL.0125 Global Health",
+    "value":"57319"
+  },
+  {
+    "label":"M.WIWI-VWL.0126 Nachhaltigkeitsökonomik",
+    "value":"58936"
+  },
+  {
+    "label":"M.WIWI-VWL.0127 Geschichte des ökonomischen Denkens",
+    "value":"59031"
+  },
+  {
+    "label":"M.WIWI-VWL.0128 Deep Determinants of Growth and Development",
+    "value":"60964"
+  },
+  {
+    "label":"M.WIWI-VWL.0130 Seminar in Gender Differences in Labor Economics",
+    "value":"61249"
+  },
+  {
+    "label":"M.WIWI-VWL.0131 Business Cycles in Developing Countries",
+    "value":"62056"
+  },
+  {
+    "label":"M.WIWI-VWL.0132 New Developments in International Economics",
+    "value":"62761"
+  },
+  {
+    "label":"M.WIWI-VWL.0133 Perspektiven der europäischen Integration",
+    "value":"64294"
+  },
+  {
+    "label":"M.WIWI-VWL.0134 Development Economics of Innovations",
+    "value":"64859"
+  },
+  {
+    "label":"M.WIWI-WB.0001 Scientific Programming",
+    "value":"53901"
+  },
+  {
+    "label":"M.WIWI-WB.0002 Projekte zur Nachhaltigen Unternehmensführung (Enactus)",
+    "value":"52641"
+  },
+  {
+    "label":"M.WIWI-WB.0003 Plurale Ökonomik",
+    "value":"51795"
+  },
+  {
+    "label":"M.WIWI-WB.0004 Ausgewählte Themen wirtschaftswissenschaftlicher Kompetenzen",
+    "value":"61421"
+  },
+  {
+    "label":"M.WIWI-WB.0005 Advanced Topics in Stata",
+    "value":"61425"
+  },
+  {
+    "label":"M.WIWI-WB.0006 Introduction to Geographic Information Systems",
+    "value":"61031"
+  },
+  {
+    "label":"M.WIWI-WB.1000 Praktikum",
+    "value":"59049"
+  },
+  {
+    "label":"M.WIWI-WIN.0001 Modeling and System Development",
+    "value":"202"
+  },
+  {
+    "label":"M.WIWI-WIN.0002 Integrierte Anwendungssysteme",
+    "value":"203"
+  },
+  {
+    "label":"M.WIWI-WIN.0003 Informationsmanagement",
+    "value":"302"
+  },
+  {
+    "label":"M.WIWI-WIN.0004 Crucial Topics in Information Management",
+    "value":"303"
+  },
+  {
+    "label":"M.WIWI-WIN.0005 Seminar zur Wirtschaftsinformatik",
+    "value":"377"
+  },
+  {
+    "label":"M.WIWI-WIN.0006 Internetökonomie",
+    "value":"215"
+  },
+  {
+    "label":"M.WIWI-WIN.0007 Methoden der Entscheidungsfindung für das Distributionsmanagement",
+    "value":"274"
+  },
+  {
+    "label":"M.WIWI-WIN.0008 Change & Run IT",
+    "value":"312"
+  },
+  {
+    "label":"M.WIWI-WIN.0009 Internet Economics",
+    "value":"356"
+  },
+  {
+    "label":"M.WIWI-WIN.0010 Customer Value Management",
+    "value":"361"
+  },
+  {
+    "label":"M.WIWI-WIN.0011 Entrepreneurship 1 - Theoretische Grundlagen",
+    "value":"2237"
+  },
+  {
+    "label":"M.WIWI-WIN.0012 Angewandte empirische Forschung",
+    "value":"84"
+  },
+  {
+    "label":"M.WIWI-WIN.0013 Information Systems for Managers ",
+    "value":"2447"
+  },
+  {
+    "label":"M.WIWI-WIN.0014 Wissenschaftliches Arbeiten und aktuelle Forschung in der Wirtschaftsinformatik",
+    "value":"11433"
+  },
+  {
+    "label":"M.WIWI-WIN.0015 Entrepreneurship 2 - Praktische Umsetzung",
+    "value":"12047"
+  },
+  {
+    "label":"M.WIWI-WIN.0017 Seminar Innovative Informationssysteme ",
+    "value":"25811"
+  },
+  {
+    "label":"M.WIWI-WIN.0018 Strategisches IT-Management",
+    "value":"30256"
+  },
+  {
+    "label":"M.WIWI-WIN.0019 Business Intelligence and Decision Support Systems",
+    "value":"41812"
+  },
+  {
+    "label":"M.WIWI-WIN.0020 Vernetzte Mobilität – Technologien, Anwendungen und Geschäftsmodelle",
+    "value":"62656"
+  },
+  {
+    "label":"M.WIWI-WIP.0001 Lernen und Lehren II: Didaktische Modelle in der kaufmännischen Aus- und Weiterbildung",
+    "value":"250"
+  },
+  {
+    "label":"M.WIWI-WIP.0002 Forschungsmethoden",
+    "value":"251"
+  },
+  {
+    "label":"M.WIWI-WIP.0003 Diagnostik und Evaluation",
+    "value":"253"
+  },
+  {
+    "label":"M.WIWI-WIP.0004 Hypermediales Lernen und Lehren",
+    "value":"254"
+  },
+  {
+    "label":"M.WIWI-WIP.0005 Lernen und Lehren III (Vertiefende Spezialthemen im Wechsel)",
+    "value":"255"
+  },
+  {
+    "label":"M.WIWI-WIP.0006 Institutionelle und bildungspolitische Bedingungen des Lernens und Lehrens II",
+    "value":"256"
+  },
+  {
+    "label":"M.WIWI-WIP.0007 Wirtschaftspädagogisches Kolloquium",
+    "value":"257"
+  },
+  {
+    "label":"M.WIWI-WIP.0008 Schulpraktische Übungen mit Praktikum",
+    "value":"252"
+  },
+  {
+    "label":"M.WIWI-WIP.0009 Didaktik in der kaufmännischen Aus- und Weiterbildung",
+    "value":"17792"
+  },
+  {
+    "label":"M.WIWI-WIP.0010 Schul- und unterrichtspraktische Studien und Praktikum",
+    "value":"17793"
+  },
+  {
+    "label":"M.WIWI-WIP.0011 Pädagogische Diagnostik und Evaluation in der beruflichen Bildung",
+    "value":"17794"
+  },
+  {
+    "label":"M.WIWI-WIP.0012 Berufsbildungspolitik und Steuerung beruflicher Aus- und Weiterbildung",
+    "value":"17795"
+  },
+  {
+    "label":"M.WIWI-WIP.0013 Vertiefende Fachdidaktik und Unterrichtsforschung Wirtschaftswissenschaften",
+    "value":"17796"
+  },
+  {
+    "label":"M.WIWI-WSG.1001 Intensivmodul Wirtschafts- und Sozialgeschichte I",
+    "value":"1802"
+  },
+  {
+    "label":"M.WIWI-WSG.1002 Intensivmodul Wirtschafts- und Sozialgeschichte II",
+    "value":"1808"
+  },
+  {
+    "label":"M.WIWI-WSG.1003 Projektseminar Wirtschafts- und Sozialgeschichte",
+    "value":"263"
+  },
+  {
+    "label":"M.WIWI-WSG.1004 Orientierungsmodul Wirtschafts- und Sozialgeschichte I",
+    "value":"262"
+  },
+  {
+    "label":"M.WIWI-WSG.1005 Orientierungsmodul Wirtschafts- und Sozialgeschichte II",
+    "value":"264"
+  },
+  {
+    "label":"M.WIWI-WSG.1006 Vertiefungsmodul Wirtschafts- und Sozialgeschichte",
+    "value":"1814"
+  },
+  {
+    "label":"M.WIWI-WSG.1007 Ergänzungsmodul Wirtschafts- und Sozialgeschichte",
+    "value":"1817"
+  },
+  {
+    "label":"M.WIWI-WSG.1008 Klassiker der modernen Wirtschaftstheorie",
+    "value":"370"
+  },
+  {
+    "label":"P.GRK1703.M1 Wissenschaftliche Kompetenzen",
+    "value":"46731"
+  },
+  {
+    "label":"P.GRK1703.M2 Reflexion und Optimierung der Forschung",
+    "value":"46737"
+  },
+  {
+    "label":"P.GRK1703.M3 Forschung international vernetzen",
+    "value":"46741"
+  },
+  {
+    "label":"P.GRK1703.M4 Fachliche Vertiefung",
+    "value":"46746"
+  },
+  {
+    "label":"P.GRK1703.M5 Erwerb interdisziplinären Expertenwissens",
+    "value":"46749"
+  },
+  {
+    "label":"P.GRK1703.M6 Vertiefung von Medienkompetenzen",
+    "value":"46753"
+  },
+  {
+    "label":"P.WIWI.0001 Doktorandenkolloquium",
+    "value":"19012"
+  },
+  {
+    "label":"P.WIWI.0002 Forschungsmethoden und Forschungslogik in den Wirtschaftswissenschaften",
+    "value":"19013"
+  },
+  {
+    "label":"P.WIWI.0003 Workshop Zwischenbilanz",
+    "value":"19014"
+  },
+  {
+    "label":"P.WIWI.0004 Wissenschaftskommunikation",
+    "value":"19015"
+  },
+  {
+    "label":"P.WIWI.0005 Erstellen wissenschaftlicher Publikationen",
+    "value":"19016"
+  },
+  {
+    "label":"P.WIWI.0006 Fachspezifische Vertiefung",
+    "value":"19017"
+  },
+  {
+    "label":"P.WIWI.0007 Themenspezifische Vertiefung",
+    "value":"19018"
+  },
+  {
+    "label":"P.WIWI.0008 Wissenschaftliches Lehren",
+    "value":"19019"
+  },
+  {
+    "label":"P.WIWI.0009 Interdisziplinäre Forschung",
+    "value":"19020"
+  },
+  {
+    "label":"P.WIWI.0010 Fortgeschrittene Präsentationstechniken",
+    "value":"19021"
+  },
+  {
+    "label":"P.WIWI.0011 Koordination von Praxisprojekten",
+    "value":"19022"
+  },
+  {
+    "label":"P.WIWI.0012 Koordination von Forschungsprojekten",
+    "value":"19023"
+  },
+  {
+    "label":"X.WIWI-XXX.XXXX Formatvorlage",
+    "value":"25686"
+  }
+]

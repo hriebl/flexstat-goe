@@ -1,0 +1,3 @@
+# flexstat-goe
+
+Just tinkering around with my university's exam database...
