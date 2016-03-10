@@ -1,28 +1,37 @@
-setwd("/home/hannes/Desktop/stat-devel/flexstat-goe")
+#------------------------------------------------------------------#
+# R-Projekt: Flexstat Data
+# Authors: Hannes Riebl, Stanislaus Stadlmann
+#------------------------------------------------------------------#
 
-# install.packages("jsonlite")
-# install.packages("httr")
+# ------ PRELIMINARIES ------ #
 
+# Set Working Directory
+setwd("~/GitHub/flexstat-goe")
+
+# Delete everything
+rm(list = ls())
+
+# Packages
 library(jsonlite)
 library(httr)
 
+# ------ DATA DOWNLOAD ------ #
+
+# Get Link
 resultsURL <- "https://pruefungsverwaltung.uni-goettingen.de/statistikportal/api/queryexecution/results"
+
+# Read both JSON files
 requestJSON <- readChar("json/request.json", file.info("json/request.json")$size)
 modulesJSON <- readChar("json/modules.json", file.info("json/modules.json")$size)
+
+# Store Name of all courses and their code
 modulesDataFrame <- fromJSON(modulesJSON)
 
-# module 112 is B.WIWI-BWL.0001 Unternehmenssteuern I,
-# module 113 is B.WIWI-BWL.0002 Interne Unternehmensrechnung,
-# for more, see head(modulesDataFrame) etc.
-
+# Container for records
 records <- data.frame(matrix(nrow = 0, ncol = 21))
 
 for (module in modulesDataFrame$value) {
-  for (semester in 52:62) {
-
-    # semester 52 is winter semester 2010/11,
-    # semester 53 is summer semester 2011
-    # and so on...
+  for (semester in 52:62) { # 52 is Winter-semester 2010/11
 
     moduleString <- paste0('"lastValue":"', module, '"')
     thisRequestJSON <- sub('"lastValue":"112"', moduleString, requestJSON)
