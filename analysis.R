@@ -1,24 +1,6 @@
-#------------------------------------------------------------------#
-# R-Projekt: Flexstat Data
-# Authors: Hannes Riebl, Stanislaus Stadlmann
-#------------------------------------------------------------------#
+setwd("/home/hannes/Desktop/stat-devel/flexstat-goe")
 
-# ------ PRELIMINARIES ------ #
-
-# Delete everything
-rm(list = ls())
-
-# Set Working Directory
-setwd("~/GitHub/flexstat-goe")
-
-# Packages
-library(dplyr)
-
-# Load data
-load(file = "data/records.RData")
-
-# ------ ANALYSIS ------ #
-
+records <- read.csv("csv/records.csv")
 pruefer <- levels(records$pruefer)
 
 results <- data.frame(matrix(nrow = 0, ncol = 3))
