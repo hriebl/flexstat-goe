@@ -78,12 +78,22 @@ for (module in modulesDataFrame$value) {
 
     }
   }
+  
+  # Prozessleiste
+  cat(paste("Modul", 
+            which(modulesDataFrame$value == module), 
+            "von", 
+            length(modulesDataFrame$value), 
+            "\n"))
 }
 
+# Delete NA's and assign right column names
 names(records) <- colnames(thisRecords)
 records[records == "-"] <- NA
 records[records == ""] <- NA
 
+# Transform columns to be numeric
 records[, c(1:2, 5:21)] <- sapply(records[, c(1:2, 5:21)], as.numeric)
 
-# write.csv(records, "csv/records.csv", row.names = FALSE)
+# Export data in .RData object
+save(list = "records", file = "data/records.RData")
