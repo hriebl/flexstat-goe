@@ -19,6 +19,7 @@ load(file = "data/records.RData")
 
 # ------ ANALYSIS ------ #
 
+# All people who gave exams
 pruefer <- levels(records$pruefer)
 
 results <- data.frame(matrix(nrow = 0, ncol = 3))
